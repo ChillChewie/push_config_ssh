@@ -1,0 +1,1 @@
+commands= ['show vlan', 'exit']
