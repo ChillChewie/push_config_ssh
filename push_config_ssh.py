@@ -7,8 +7,7 @@ from configs import commands
 
 
 user = input("Username : ")
-pwd = getpass() 
-print(pwd)
+pwd = getpass()
 
 # For loop allows you to specify number of hosts
 for ip in  network_devices:
